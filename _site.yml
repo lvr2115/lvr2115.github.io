@@ -14,4 +14,4 @@ navbar:
       href: http://github.com/lvr2115/
 output:
   html_document:
-    theme: cerulean
+    theme: cerulean #can change to other default themes from website

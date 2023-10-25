@@ -48,3 +48,5 @@ Also here's the backstage of the auditorium.
 ![] (images/backstage.jpg)
 
 It's better to have on set of rules that apply site-wide for styling. This is like SAS ODS. It needs to be called _site.yml. index.rmd has to exist in your webite and it HAS to be named like that, with lower case all.
+
+#Build website re-knits everything on your website. If it's a site wide change and you want something to appear in every page, building website is a great way to do so.
