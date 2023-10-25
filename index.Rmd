@@ -1,0 +1,50 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r}
+library(tibble)
+library(ggplot2)
+library(tidyverse)
+```
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+You can add text
+
+* and lists
+* with extra bullets
+
+You can *FORMAT* and **bold**.
+
+This is a [link](google.com) to a good data science tool. Here's a link to the [about](about.html) page.
+
+You can also still use R! 
+
+```{r}
+plot_df =
+  tibble(
+    x = runif(100),
+    y = 1 + 2 * x + rnorm(100)
+  )
+
+plot_df |>
+  ggplot(aes(x=x, y=y)) + geom_point()
+```
+
+# Here's a new section
+
+My cat's name is Ted.
+
+![](images/ted.jpg)
+Also here's the backstage of the auditorium.
+
+![] (images/backstage.jpg)
+
+It's better to have on set of rules that apply site-wide for styling. This is like SAS ODS. It needs to be called _site.yml. index.rmd has to exist in your webite and it HAS to be named like that, with lower case all.
