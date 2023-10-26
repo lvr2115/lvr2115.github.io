@@ -1,20 +1,27 @@
 ---
-title: "My awesome website"
+title: "Laura Robles-Torres"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-```{r}
+```{r, message=FALSE}
 library(tibble)
 library(ggplot2)
 library(tidyverse)
 ```
 
-# This is Jeff's awesome website
+MPH Candidate Class of 2024
+Columbia University Mailman School of Public Health 
+Heilbrunn Department of Population and Family Health 
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+A page giving your academic and professional experience (i.e. a resume)
+Links in the site navigation for your GitHub account, your email, and other professional networks.
+
+```{r, echo=FALSE, out.width="50%", fig.cap=""}
+knitr::include_graphics("headshot.jpeg")
+```
 
 You can add text
 
@@ -25,28 +32,13 @@ You can *FORMAT* and **bold**.
 
 This is a [link](google.com) to a good data science tool. Here's a link to the [about](about.html) page.
 
-You can also still use R! 
+**About**
 
-```{r}
-plot_df =
-  tibble(
-    x = runif(100),
-    y = 1 + 2 * x + rnorm(100)
-  )
+I graduated from the University of Florida in 2020 with a dual degree in Political Science and Public Health. My time at the University of Florida allowed me to work in state government, non-profit organizations and clinical spaces to explore the intersection between politics and public health. 
 
-plot_df |>
-  ggplot(aes(x=x, y=y)) + geom_point()
-```
 
-# Here's a new section
-
-My cat's name is Ted.
-
-![](images/ted.jpg)
-Also here's the backstage of the auditorium.
-
-![] (images/backstage.jpg)
 
 It's better to have on set of rules that apply site-wide for styling. This is like SAS ODS. It needs to be called _site.yml. index.rmd has to exist in your webite and it HAS to be named like that, with lower case all.
 
 #Build website re-knits everything on your website. If it's a site wide change and you want something to appear in every page, building website is a great way to do so.
+# Go to the P8105 website and github to look at how Jeff did things like drop downs
