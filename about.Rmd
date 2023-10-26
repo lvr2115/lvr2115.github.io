@@ -1,8 +1,0 @@
----
-title: "Resumè"
-author: "Laura Robles-Torres"
-date: "2023-10-25"
-output: html_document
----
-
-A page giving your academic and professional experience (i.e. a resume)

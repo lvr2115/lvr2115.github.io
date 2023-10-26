@@ -4,12 +4,12 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
+    - text: "Professional experience"
+      href: work.html
     - text: "Projects"
       href: projects.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<lvr2115@columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/lvr2115/
 output:

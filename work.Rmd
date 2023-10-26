@@ -1,0 +1,64 @@
+---
+title: "Work experience"
+output: html_document
+---
+
+<div align="left">**Professional Experience**
+
+**Sr. Connected Care Assistant (Maternal and Newborn team)**, Included Health <div align="right"> *January 2021 - August 2023*
+<div align="left">
+- Implemented 2 new processes of summarizing patient information in each care plan note, reducing charting and  documentation time by 10-15 minutes per care plan to maximize clinician efficiency.  
+- Spearheaded the development of an innovative clinical huddle model that reduced huddle meeting time by 10 hours  weekly for all members of our care team, providing telehealth and technical support services for pregnant people.
+- Oversaw a team of 10 care coordinators, improving services to ~275 pregnant people and ~550 newborns/children per month.  
+- Researching and providing linkage to community resources for social and financial needs, such as government  assistant programs, diaper banks, milk banks, daycares, etc. 
+
+
+**SNAP-Ed Program Coordinator and Health Educator**, State of Florida Dept. of Health <div align="right"> *April 2021 – Dec. 2021*
+<div align="left">
+- Planned a 6-session program that reached 300 pregnant people and children experiencing food insecurity to promote  healthy nutritional habits and improve activity levels among SNAP-benefit recipients in Orange County. 
+- Increased participation by 125% in 8 months by developing community partnerships to increase reach of efforts. 
+- Completed financial requisitions, invoices, and balance sheet reconciliations for more than $72,000 worth of  purchases.  
+- Monitored county commissioner newsletters, social media accounts and local publications to stay up to date on  current trends and projects related to food insecurity and food systems improvements in Orange County.  
+
+**Legislative Spring Intern to Senator J.J. Rodriguez**, The Florida State Senate <div align="right"> *January 2018 – April 2018* 
+<div align="left">
+- Researched proposed legislation to create daily 1-page summary reports during the legislative session of 2018.  
+- Contributed preliminary public policy research and issue briefs to legislative staff on health care delivery systems, reproductive care access, and gun regulations after the 2018 Parkland shooting.  
+
+<div align="left">**Research Experience**
+<div align="left">
+**University Honors Thesis Project**, University of Florida <div align="right"> *August 2019 – May 2020* 
+- Completed an independent, qualitative research project under the direction of Dr. Rick Kates to identify the  healthcare infrastructure failings in Puerto Rico in the immediate aftermath of Hurricane María in 2017.  
+- Performed a literature review on aspects of the Puerto Rican healthcare system, including care provision, provider  supply and demand, and needs of vulnerable populations such as older adults and children.  
+- Compiled primary and secondary data sources, organized references in Zotero reference manager, and completed  coding and analysis in collaboration with two other researchers.  
+**Graham Civic Scholar, Center for Public Service**, University of Florida <div align="right"> *Jan. 2019 – May 2020*
+- Completed two separate, mixed-methods research projects regarding the state of affordable housing in Orange  County (2019) and the impact of climate change in Seminole County (2020), proposing 3 state and local  government policy solutions.
+- Conducted multiple 2 hour-long interviews with local government officials, activists, and organizational leaders. 
+- Synthesized publicly available quantitative data for the development of a new public portal, Barometer Florida, to  help the public track progress on climate change preparedness across the state of Florida. 
+- Analyzed qualitative and quantitative data to propose effective public policy approaches for ensuring housing for  all in Florida. 
+
+<div align="left"> **Service**
+<div align="left">
+
+**Volunteer, Days for Girls (DFG)** <div align="right"> *Jan. 2019 – August 2021*
+
+Days for Girls is a global non-profit organization that prepares and distributes sustainable menstrual health kits to low income and underserved menstruating people in the United States and abroad. 
+- Wrote a grant proposal to purchase kit-preparation materials and create a scholarship program to increase skilled  volunteer recruitment, which was awarded a $2,000 grant from the University of Florida. 
+- Translated menstrual health information from English to Spanish for menstrual health kits distributed in rural  communities in Peru in 2019. 
+- Trained Ambassador of Women’s Health through DFG and provided education to 30 middle school students on  the menstrual cycle and reproductive health in Gainesville, FL. 
+
+**Care Coordinator, Mobile Outreach Clinic, University of Florida** <div align="right"> *Jan. 2019 – August 2021*
+
+- Coordinated the provision of primary and preventive care services to uninsured Alachua County residents,  primarily undocumented Venezuelan migrants, and unhoused individuals. 
+- Referred patients to socioeconomic assistance programs such as transportation assistance, housing shelters, and  dental services and advocated for them through applications or other logistical processes. 
+- Spearheaded a new program to provide free prenatal vitamins and prenatal care for uninsured pregnant people. 
+- Assisted our nurse practitioner in the insertion of intrauterine devices, pelvic exams, and other procedures by  handling sterile equipment and ensuring patient comfort. 
+
+PAPERS AND POSTERS 
+Robles-Torres L., Pomputius A, McDonald D, Romitti P, Rasmussen S. Evaluating the Accuracy of Family Medical  History on Birth Defects – A Systematic Review. Submitted to Journal of Birth Defects. Poster session virtually presented  at the 2020 University of Florida’s College of Medicine Research Poster Session, Gainesville, FL on April 2020. 
+Robles-Torres L., Rivera F, Kates F. Puerto Rico Before, During and After Hurricane Maria Through the Lens of the  Island’s Primary Newspaper. Submitted to University of Florida Undergraduate Journal in May 2020. 
+SKILLS & CERTIFICATIONS 
+Languages: Spanish (Native fluent), English (fluent)  
+Digital: MS Office, Google Suites, Slack, EPIC, RedCap, Qualtrics, Canva, Adobe 
+Statistical: SAS (Intermediate), R (Intermediate), Stata (Beginner), SPSS (Expected 2023)
+A page giving your academic and professional experience (i.e. a resume)

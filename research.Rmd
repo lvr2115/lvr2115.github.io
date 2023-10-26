@@ -1,0 +1,17 @@
+---
+title: "Research"
+output: html_document
+---
+
+<div align="left">
+**University Honors Thesis Project**, University of Florida <div align="right"> *August 2019 – May 2020* <div align="left">
+- Completed an independent, qualitative research project under the direction of Dr. Rick Kates to identify the  healthcare infrastructure failings in Puerto Rico in the immediate aftermath of Hurricane María in 2017.  
+- Performed a literature review on aspects of the Puerto Rican healthcare system, including care provision, provider  supply and demand, and needs of vulnerable populations such as older adults and children.  
+- Compiled primary and secondary data sources, organized references in Zotero reference manager, and completed  coding and analysis in collaboration with two other researchers.  
+
+<div align="left"> **Graham Civic Scholar, Center for Public Service**, University of Florida <div align="right"> *Jan. 2019 – May 2020* 
+<div align="left">
+- Completed two separate, mixed-methods research projects regarding the state of affordable housing in Orange  County (2019) and the impact of climate change in Seminole County (2020), proposing 3 state and local  government policy solutions.
+- Conducted multiple 2 hour-long interviews with local government officials, activists, and organizational leaders. 
+- Synthesized publicly available quantitative data for the development of a new public portal, Barometer Florida, to  help the public track progress on climate change preparedness across the state of Florida. 
+- Analyzed qualitative and quantitative data to propose effective public policy approaches for ensuring housing for  all in Florida. 
