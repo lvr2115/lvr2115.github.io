@@ -1,44 +1,28 @@
 ---
-title: "Laura Robles-Torres"
+title: <div align="center"> Laura Robles-Torres
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-```{r, message=FALSE}
+```{r, echo = FALSE, message=FALSE}
 library(tibble)
 library(ggplot2)
 library(tidyverse)
 ```
 
-MPH Candidate Class of 2024
-Columbia University Mailman School of Public Health 
-Heilbrunn Department of Population and Family Health 
+<div align="center">| MPH Candidate Class of 2024
+<div align="center">| Columbia University Mailman School of Public Health 
+<div align="center">| Heilbrunn Department of Population and Family Health 
 
-A page giving your academic and professional experience (i.e. a resume)
-Links in the site navigation for your GitHub account, your email, and other professional networks.
-
-```{r, echo=FALSE, out.width="50%", fig.cap=""}
-knitr::include_graphics("headshot.jpeg")
+```{r, echo=FALSE, out.width="35%", fig.cap="", fig.align = 'center'}
+knitr::include_graphics("headshot.jpeg") 
 ```
 
-You can add text
+<div align="left">**About** 
 
-* and lists
-* with extra bullets
+I graduated from the [University of Florida](https://phhp.ufl.edu/) in 2020 with a dual degree in Political Science and Public Health. During my time at the University of Florida, I worked in state government, non-profit organizations and clinical environments to explore the intersection between politics and public health. 
 
-You can *FORMAT* and **bold**.
+I am now pursuing my Master's in Public Health at Columbia University's Mailman School of Public Health with a certificate in Biostatistics and Public Health Data Science. 
 
-This is a [link](google.com) to a good data science tool. Here's a link to the [about](about.html) page.
-
-**About**
-
-I graduated from the University of Florida in 2020 with a dual degree in Political Science and Public Health. My time at the University of Florida allowed me to work in state government, non-profit organizations and clinical spaces to explore the intersection between politics and public health. 
-
-
-
-It's better to have on set of rules that apply site-wide for styling. This is like SAS ODS. It needs to be called _site.yml. index.rmd has to exist in your webite and it HAS to be named like that, with lower case all.
-
-#Build website re-knits everything on your website. If it's a site wide change and you want something to appear in every page, building website is a great way to do so.
-# Go to the P8105 website and github to look at how Jeff did things like drop downs
