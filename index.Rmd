@@ -20,9 +20,18 @@ library(tidyverse)
 knitr::include_graphics("headshot.jpeg") 
 ```
 
-<div align="left">**About** 
+<div align="left"> 
+## About 
 
 I graduated from the [University of Florida](https://phhp.ufl.edu/) in 2020 with a dual degree in Political Science and Public Health. During my time at the University of Florida, I worked in state government, non-profit organizations and clinical environments to explore the intersection between politics and public health. 
 
-I am now pursuing my Master's in Public Health at [Columbia University's Mailman School of Public Health](https://www.publichealth.columbia.edu/academics/departments/population-family-health) with a certificate in Biostatistics and Public Health Data Science. I am also a recipient of the merit-based Huo Public Service Fellowship.
+I am now pursuing my Master's in Public Health at [Columbia University's Mailman School of Public Health](https://www.publichealth.columbia.edu/academics/departments/population-family-health) with a certificate in Applied Biostatistics and Public Health Data Science. I am also a recipient of the merit-based Huo Public Service Fellowship.
+
+Quantitative Public Health Literacy Training Program March 2021
+NYU School of Global Public Health
+• Graduated with High Honors with Distinction
+
+## Current Interests
+
+Program Planning, Monitoring and Evaluation, Research Design & Data Collection
 

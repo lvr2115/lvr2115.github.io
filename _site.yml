@@ -8,12 +8,12 @@ navbar:
       href: work.html
     - text: "Research"
       href: research.html
-    - text: "Projects"
-      href: projects.html
     - icon: fa-envelope fa-lg
       href: mailto:<lvr2115@columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/lvr2115/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/laura-v-robles-torres-6b430b12b/
 output:
   html_document:
-    theme: cerulean #can change to other default themes from website
+    theme: cosmo #can change to other default themes from website
