@@ -6,6 +6,8 @@ navbar:
   right:
     - text: "Professional experience"
       href: work.html
+    - text: "Research"
+      href: research.html
     - text: "Projects"
       href: projects.html
     - icon: fa-envelope fa-lg
