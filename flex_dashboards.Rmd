@@ -11,6 +11,7 @@ library(flexdashboard)
 library(tidyverse)
 library(plotly)
 library(p8105.datasets)
+library(ggplot2)
 data("ny_noaa")
 ```
 
@@ -45,46 +46,19 @@ weather_data |>
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B: Line plot
-
-```{r}
-
-```
-
-### Chart C: Bar plot
+### Chart B:Box Plot
 
 ```{r}
 weather_data |>
-    separate(date, into = c("year", "month", "day")) |> 
-    ggplot(aes(x = tmax, fill = name)) +
-    geom_histogram(position = "dodge", binwidth = 2)
-
+   plot_ly(x=~name, y=~tmin, color=~name,
+      type = "box", mode="markers", alpha=0.5)
 ```
 
-
-```
-
-Column {data-width=650}
------------------------------------------------------------------------
-
-### Chart A
+### Chart C: Line plot
 
 ```{r}
-
+weather_data |>
+  filter(date >'2000-01-1') |>
+  plot_ly(x=~date, y=~snow, color=~name,
+      type = "scatter", mode="lines", alpha=0.5)
 ```
-
-Column {data-width=350}
------------------------------------------------------------------------
-
-### Chart B
-
-```{r}
-
-```
-
-### Chart C
-
-```{r}
-
-```
-
