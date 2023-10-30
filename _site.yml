@@ -8,6 +8,8 @@ navbar:
       href: work.html
     - text: "Research"
       href: research.html
+    - text: "Flex Dashboards"
+      href: flex_dashboards.html
     - icon: fa-envelope fa-lg
       href: mailto:<lvr2115@columbia.edu>
     - icon: fa-github fa-lg
