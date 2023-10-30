@@ -21,37 +21,43 @@ weather_data =
   mutate(
     name = recode(
       id, 
-      USW00094728 = "CentralPark_NY", 
-      USW00022534 = "Molokai_HI",
-      USS0023B17S = "Waterhole_WA")) |>
+      USW00094728 = "CentralPark_NY")) |>
   mutate(tmin=as.numeric(tmin), tmax = as.numeric(tmax)) |>
   mutate(tmin = tmin / 10,
     tmax = tmax / 10) |>
   drop_na(tmin, tmax) |>
-  select(name, id, everything())
+  select(name, id, everything()) |>
+  filter(name%in% c("CentralPark_NY"))
 ```
 
 Column {data-width=650} 
 -----------------------------------------------------------------------
 
-### Chart A
+### Chart A: Scatter Plot
 
 ```{r}
-
+weather_data |>
+  filter(snow > 0) |>
+  plot_ly(x=~tmax, y=~snow, color=~name,
+      type = "scatter", mode="markers", alpha=0.5)
 ```
 
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Chart B: Line plot
 
 ```{r}
 
 ```
 
-### Chart C
+### Chart C: Bar plot
 
 ```{r}
+weather_data |>
+    separate(date, into = c("year", "month", "day")) |> 
+    ggplot(aes(x = tmax, fill = name)) +
+    geom_histogram(position = "dodge", binwidth = 2)
 
 ```
 
