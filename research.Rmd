@@ -2,6 +2,8 @@
 output: html_document
 ---
 
+&nbsp;
+
 ### Projects
 <div align="left">
 **University Honors Thesis Project**, University of Florida <div align="right"> *August 2019 – May 2020* <div align="left">
@@ -17,13 +19,22 @@ output: html_document
 - Analyzed qualitative and quantitative data to propose effective public policy approaches for ensuring housing for  all in Florida. 
 
 <div align="left">
-### Publishable works 
 
-| Robles-Torres L., Pomputius A, McDonald D, Romitti P, Rasmussen S. Evaluating the Accuracy of Family Medical  History on Birth Defects – A Systematic Review. Submitted to Journal of Birth Defects. Poster session virtually presented  at the 2020 University of Florida’s College of Medicine Research Poster Session, Gainesville, FL on April 2020. 
-| Robles-Torres L., Rivera F, Kates F. Puerto Rico Before, During and After Hurricane Maria Through the Lens of the  Island’s Primary Newspaper. Submitted to University of Florida Undergraduate Journal in May 2020. 
+&nbsp;
+
+<FONT COLOR="RED"> ### Publishable works 
+
+| **Robles-Torres L.**, Pomputius A, McDonald D, Romitti P, Rasmussen S. Evaluating the Accuracy of Family Medical  History on Birth Defects – A Systematic Review. Submitted to Journal of Birth Defects. Poster session virtually presented  at the 2020 University of Florida’s College of Medicine Research Poster Session, Gainesville, FL on April 2020.
+
+&nbsp;
+
+**Robles-Torres L.**, Rivera F, Kates F. Puerto Rico Before, During and After Hurricane Maria Through the Lens of the  Island’s Primary Newspaper. Submitted to University of Florida Undergraduate Journal in May 2020. 
+
+&nbsp;
+
 
 ### Skills 
 
-Languages: Spanish (Native fluent), English (fluent)  
-Digital: MS Office, Google Suites, Slack, EPIC, RedCap, Qualtrics, Canva, Adobe 
-Statistical: SAS (Intermediate), R (Intermediate), Stata (Beginner), SPSS (Expected 2023)
+**Languages**: Spanish (Native fluent), English (fluent)  
+**Digital**: MS Office, Google Suites, Slack, EPIC, RedCap, Qualtrics, Canva, Adobe 
+**Statistical**: SAS (Intermediate), R (Intermediate), Stata (Beginner), SPSS (Intermediate)

@@ -3,7 +3,7 @@ title: "Work experience"
 output: html_document
 ---
 
-### Professional Experience
+&nbsp;
 
 **Sr. Connected Care Assistant (Maternal and Newborn team)**, Included Health <div align="right"> *January 2021 - August 2023*
 <div align="left">
