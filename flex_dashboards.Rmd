@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "flex dashboards"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns #columns rather than rows, top to bottom 
