@@ -1,0 +1,84 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns #columns rather than rows, top to bottom 
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(plotly)
+library(p8105.datasets)
+data("ny_noaa")
+```
+
+
+```{r initial data cleaning}
+weather_data = 
+  ny_noaa |>
+  mutate(
+    name = recode(
+      id, 
+      USW00094728 = "CentralPark_NY", 
+      USW00022534 = "Molokai_HI",
+      USS0023B17S = "Waterhole_WA")) |>
+  mutate(tmin=as.numeric(tmin), tmax = as.numeric(tmax)) |>
+  mutate(tmin = tmin / 10,
+    tmax = tmax / 10) |>
+  drop_na(tmin, tmax) |>
+  select(name, id, everything())
+```
+
+Column {data-width=650} 
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
+
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
