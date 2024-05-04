@@ -17,15 +17,13 @@ library(tidyverse)
 <div align="center">| Heilbrunn Department of Population and Family Health 
 
 ```{r, echo=FALSE, out.width="30%", fig.cap="", fig.align = 'center'}
-knitr::include_graphics("headshot.jpeg") 
+knitr::include_graphics("headshot 2024.png")
 ```
 
 <div align="left"> 
 ## About 
 
-I graduated from the [University of Florida](https://phhp.ufl.edu/) in 2020 with a dual degree in Political Science and Public Health. During my time at the University of Florida, I worked in state government, non-profit organizations and clinical environments to explore the intersection between politics and public health. 
-
-I am now pursuing my Master's in Public Health at [Columbia University's Mailman School of Public Health](https://www.publichealth.columbia.edu/academics/departments/population-family-health) with a certificate in Applied Biostatistics and Public Health Data Science, where I am a recipient of the merit-based Huo Public Service Fellowship. 
+I recently graduated with a Master's in Public Health at [Columbia University's Mailman School of Public Health](https://www.publichealth.columbia.edu/academics/departments/population-family-health) with a certificate in Applied Biostatistics and Public Health Data Science, where I am a recipient of the merit-based Huo Public Service Fellowship. 
 
 
 
