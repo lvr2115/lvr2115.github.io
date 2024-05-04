@@ -26,4 +26,3 @@ knitr::include_graphics("headshot 2024.png")
 I recently graduated with a Master's in Public Health at [Columbia University's Mailman School of Public Health](https://www.publichealth.columbia.edu/academics/departments/population-family-health) with a certificate in Applied Biostatistics and Public Health Data Science, where I am a recipient of the merit-based Huo Public Service Fellowship. 
 
 
-
