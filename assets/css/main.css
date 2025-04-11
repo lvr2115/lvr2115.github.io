@@ -1,0 +1,32 @@
+/* In your main CSS file (assets/css/style.css or whatever your CSS file is) */
+.headshot {
+    max-width: 200px;  /* Limit the size */
+    border-radius: 50%; /* Circular headshot */
+    border: 4px solid #fff; /* Optional: white border around the image */
+    display: block;  /* Center image in parent container */
+    margin: 0 auto 20px auto;  /* Center and space it from the text */
+}
+
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5em;
+    text-align: center;
+    color: #333; /* Dark grey text color */
+}
+
+p {
+    font-size: 1.2em;
+    text-align: center;
+    color: #555; /* Lighter grey for a softer look */
+}
+
+a {
+    text-decoration: none;
+    color: #1a73e8; /* Light blue links */
+    font-weight: bold;
+}
+
+a:hover {
+    color: #0073e6; /* Darker blue when hovering */
+    transition: color 0.3s ease;
+}
