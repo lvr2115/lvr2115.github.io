@@ -1,4 +1,5 @@
-/* In your main CSS file (assets/css/style.css or whatever your CSS file is) */
+@import "minima"; // Import Minima's base styles
+
 .headshot {
     max-width: 200px;  /* Limit the size */
     border-radius: 50%; /* Circular headshot */
