@@ -6,10 +6,10 @@ layout: home
 title: "Welcome to My Portfolio"
 ---
 
-👋 Hello! I'm Laura, a data analyst specializing in population health and healthcare analytics. 
+<img src="/assets/images/headshot.jpg" alt="Headshot of Laura" class="headshot">
 
-- 📊 I love exploring data to uncover insights.
-- 💻 Check out my [projects](projects.html)
-- 🧠 I also write about learning and creativity.
+# Hi, I’m Laura 👋
 
-Feel free to [contact me](contact.html) if you’d like to connect!
+I’m a Data Analyst specializing in healthcare analytics and I love working on innovative projects that drive efficiency and outcomes. 
+
+[Learn More About Me](/about) | [See My Projects](/projects) | [Contact Me](/contact)
