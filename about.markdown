@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hello! I'm Laura Robles-Torres, a passionate data analyst.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I enjoy creating user-friendly, dynamic web applications and always strive to learn new skills and technologies.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Here's a little more about me:
+- I love problem-solving and learning new programming languages.
+- In my free time, I enjoy hiking, photography, and reading.
