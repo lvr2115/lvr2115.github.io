@@ -6,7 +6,7 @@ layout: home
 title: "Welcome to My Portfolio"
 ---
 
-<img src="/assets/images/headshot.jpeg" alt="Headshot of Laura" class="headshot">
+<img src="/assets/images/headshot 2024.png" alt="Headshot of Laura" class="headshot">
 
 # Hi, I’m Laura 👋
 
