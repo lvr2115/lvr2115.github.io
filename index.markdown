@@ -6,7 +6,7 @@ layout: home
 title: "Welcome to My Portfolio"
 ---
 
-👋 Hello! I'm Laura, a data scientist and creative thinker.
+👋 Hello! I'm Laura, a data analyst specializing in population health and healthcare analytics. 
 
 - 📊 I love exploring data to uncover insights.
 - 💻 Check out my [projects](projects.html)
