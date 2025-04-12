@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Welcome to My Portfolio"
+title: ""
 ---
 
 <img src="/assets/images/headshot 2024.png" alt="Headshot of Laura" class="headshot">

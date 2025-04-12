@@ -6,11 +6,12 @@
 /* Your custom styles below */
 
 .headshot {
-    max-width: 200px;  /* Limit the size */
-    border-radius: 50%; /* Circular headshot */
-    border: 4px solid #fff; /* Optional: white border around the image */
-    display: block;  /* Center image in parent container */
-    margin: 0 auto 20px auto;  /* Center and space it from the text */
+  width: 150px;         /* Adjust size here */
+  height: 150px;        /* Keep this equal to width for a circle */
+  border-radius: 50%;   /* Makes it circular */
+  object-fit: cover;    /* Keeps it cropped nicely */
+  display: block;
+  margin: 0 auto;       /* Center it horizontally (optional) */
 }
 
 h1 {

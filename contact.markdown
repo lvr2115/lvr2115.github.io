@@ -1,3 +1,10 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
+
 Feel free to reach out to me for any inquiries or collaborations!
 
 - Email: [laurie.robles@gmail.com](mailto:laurie.robles@gmail.com)

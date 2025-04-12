@@ -35,3 +35,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 source "https://rubygems.org"
 
 gem "webrick" # Required for Ruby 3.0 and above
+source "https://rubygems.org"
+
+gem "bundler", "~> 2.6.5"
